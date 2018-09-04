@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="photo_take">0</integer>
+    <integer name="photo_choose">1</integer>
+
+</resources>

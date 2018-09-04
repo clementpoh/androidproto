@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_photo">
+        <item>@string/photo_take</item>
+        <item>@string/photo_pick</item>
+    </string-array>
+
+    <string-array name="array_prices">
+        <item>@string/price_00</item>
+        <item>@string/price_05</item>
+        <item>@string/price_10</item>
+        <item>@string/price_15</item>
+        <item>@string/price_20</item>
+        <item>@string/price_25</item>
+        <item>@string/price_30</item>
+        <item>@string/price_35</item>
+        <item>@string/price_40</item>
+        <item>@string/price_45</item>
+        <item>@string/price_50</item>
+        <item>@string/price_55</item>
+        <item>@string/price_60</item>
+    </string-array>
+
+    <string-array name="array_durations">
+        <item>@string/duration_01</item>
+        <item>@string/duration_02</item>
+        <item>@string/duration_04</item>
+        <item>@string/duration_08</item>
+    </string-array>
+
+    <string-array name="array_difficulty">
+        <item>@string/difficulty_beginner</item>
+        <item>@string/difficulty_intermediate</item>
+        <item>@string/difficulty_expert</item>
+        <item>@string/difficulty_master</item>
+    </string-array>
+
+    <string-array name="spinner_categories">
+        <item>Baking</item>
+        <item>Education</item>
+        <item>Finance</item>
+        <item>Music</item>
+        <item>Recreation</item>
+    </string-array>
+
+</resources>

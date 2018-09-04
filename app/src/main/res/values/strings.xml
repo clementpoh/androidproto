@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">kα</string>
+
+    <string name="backdrop_title">This is a title</string>
+    <string name="backdrop_subtitle">This is a subtitle</string>
+
+    <string name="tab_primary">Primary</string>
+    <string name="tab_secondary">Secondary</string>
+
+    <string name="tab_messages">Messages</string>
+    <string name="tab_schedule">Schedule</string>
+    <string name="tab_settings">Settings</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_cancel">Cancel</string>
+
+    <string name="photo_change">Change photo</string>
+    <string name="photo_remove">Remove photo</string>
+    <string name="photo_take">Take photo</string>
+    <string name="photo_pick">Choose photo</string>
+
+    <string name="text_price">$%d</string>
+    <string name="text_hours">hours</string>
+    <string name="text_title">Title</string>
+
+    <string name="hint_duration">Duration</string>
+    <string name="hint_location">Location</string>
+    <string name="hint_price">Price</string>
+    <string name="hint_language">Language</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_objectives">Objectives</string>
+    <string name="hint_materials">Materials</string>
+    <string name="hint_requirements">Requirements</string>
+    <string name="hint_post">Post</string>
+
+    <string name="difficulty_beginner">Beginner</string>
+    <string name="difficulty_intermediate">Intermediate</string>
+    <string name="difficulty_expert">Expert</string>
+    <string name="difficulty_master">Master</string>
+
+    <string name="price_00">Free</string>
+    <string name="price_05">$5</string>
+    <string name="price_10">$10</string>
+    <string name="price_15">$15</string>
+    <string name="price_20">$20</string>
+    <string name="price_25">$25</string>
+    <string name="price_30">$30</string>
+    <string name="price_35">$35</string>
+    <string name="price_40">$40</string>
+    <string name="price_45">$45</string>
+    <string name="price_50">$50</string>
+    <string name="price_55">$55</string>
+    <string name="price_60">$60</string>
+
+    <string name="duration_01">1 hour</string>
+    <string name="duration_02">2–4 hours</string>
+    <string name="duration_04">4–8 hours</string>
+    <string name="duration_08">8+ hours</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_discover">Discover</string>
+    <string name="title_more">More</string>
+    <string name="title_activity_edit_post">EditPostActivity</string>
+
+    <string name="placeholder_image">Placeholder image</string>
+
+    <string name="error_unsupported">You don\'t have any apps that do that</string>
+
+</resources>

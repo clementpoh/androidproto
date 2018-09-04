@@ -1,0 +1,33 @@
+<resources>
+    <dimen name="text_margin">16dp</dimen>
+
+    <!-- Height of the bottom navigation bar specified by Material Design -->
+    <dimen name="bottom_nav_height">56dp</dimen>
+
+    <!-- The fab floats above the bottom navigation bar -->
+    <dimen name="fab_bottom_margin">72dp</dimen>
+
+    <!-- Material design tabs have height of 48dp -->
+    <dimen name="tab_height">48dp</dimen>
+
+    <!-- Padding on the card recycler so padding adds up to 8dp -->
+    <dimen name="card_list_margin">4dp</dimen>
+
+    <!-- Material spacing between cards is 8dp -->
+    <dimen name="card_margin">4dp</dimen>
+
+    <dimen name="card_vertical_padding">8dp</dimen>
+    <dimen name="card_horizontal_padding">8dp</dimen>
+    <dimen name="card_support_padding">8dp</dimen>
+    <dimen name="card_action_padding">4dp</dimen>
+
+    <dimen name="card_divider_vpadding">16dp</dimen>
+    <dimen name="card_divider_hpadding">32dp</dimen>
+
+    <dimen name="appbar_height">200dp</dimen>
+
+    <dimen name="backdrop_title">30sp</dimen>
+    <dimen name="backdrop_subtitle">18sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>

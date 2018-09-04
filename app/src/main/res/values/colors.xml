@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00675b</color>
+    <color name="colorPrimaryLight">#52c7ba</color>
+
+    <!--With 80 prepended, colours are 50% transparent-->
+    <color name="primaryTransparent">#80009688</color>
+    <color name="primaryDarkTransparent">#8000675b</color>
+    <color name="primaryLightTransparent">#8052c7ba</color>
+
+    <color name="colorAccent">#7b1fa2</color>
+    <color name="colorAccentDark">#ae52d4</color>
+    <color name="colorAccentLight">#4a0072</color>
+
+    <color name="navigationIcon">#FFFFFF</color>
+
+    <color name="actionIcon">@android:color/darker_gray</color>
+
+    <color name="placeholderForeground">@color/primaryTransparent</color>
+    <color name="placeholderColor">@android:color/background_light</color>
+    <color name="placeholderBackground">@android:color/darker_gray</color>
+</resources>
